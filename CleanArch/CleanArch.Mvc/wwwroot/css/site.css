@@ -11,8 +11,8 @@ for details on configuring this project to bundle and minify static web assets. 
     width: 230px;
 }
 
-.course-container {
-    padding: 80px;
+.course-image-container {
+    padding: 8px;
     background-color: #fff;
     border-radius: 2px;
     display: inline-block;
